@@ -7,7 +7,7 @@ Analyzed Covid-19 data from March - July 2020.
 
 Cleaned and analyzed data to find patterns in the spread of Covid-19 in the US to predict how to prevent a second wave
 
-Airline Performance Data Analytics Group Project
+Airline Performance Data Analytics Group Project.
 
 Analyzed airline data from the U.S. Department of Transportation's Bureau of Transportation Statistics in December 2019
 
