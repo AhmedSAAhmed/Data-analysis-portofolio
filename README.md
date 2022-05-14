@@ -9,6 +9,6 @@ Cleaned and analyzed data to find patterns in the spread of Covid-19 in the US t
 
 Airline Performance Data Analytics Group Project.
 
-Analyzed airline data from the U.S. Department of Transportation's Bureau of Transportation Statistics in December 2019
+Analyzed airline data from the U.S. Department of Transportation's Bureau of Transportation Statistics in December 2019.
 
 Cleaned, analyzed, and created a predictive model to determine top causes of airline delays and to better predict future airline delays.
