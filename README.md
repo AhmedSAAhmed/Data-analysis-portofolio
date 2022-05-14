@@ -1,7 +1,7 @@
 # Data-analysis-portofolio
 Data analysis projects completed in SMSSS for self-learning or as class projets.
 
-Covid-19 Data Analytics Project
+Covid-19 Data Analytics Project.
 
 Analyzed Covid-19 data from March - July 2020
 
