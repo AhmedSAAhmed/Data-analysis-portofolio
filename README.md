@@ -3,7 +3,7 @@ Data analysis projects completed in SMSSS for self-learning or as class projets.
 
 Covid-19 Data Analytics Project.
 
-Analyzed Covid-19 data from March - July 2020
+Analyzed Covid-19 data from March - July 2020.
 
 Cleaned and analyzed data to find patterns in the spread of Covid-19 in the US to predict how to prevent a second wave
 
